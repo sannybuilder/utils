@@ -5,6 +5,7 @@ before_deploy: 'yarn build'
 deploy:
   provider: npm
   email: 'mail@sannybuilder.com'
+  skip_cleanup: true
   on:
     branch: master
   api_key:
