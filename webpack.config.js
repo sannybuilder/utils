@@ -13,7 +13,7 @@ module.exports = {
     modules: ['node_modules', path.resolve(__dirname, './src')]
   },
 
-  devtool: 'source-map',
+  // devtool: 'source-map',
 
   module: {
     rules: [

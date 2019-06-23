@@ -26,7 +26,7 @@
     "access": "public"
   },
   "files": [
-    "dist/index.js"
+    "/dist/"
   ],
   "devDependencies": {
     "@types/jasmine": "2.8.7",
