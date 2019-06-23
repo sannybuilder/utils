@@ -2,6 +2,8 @@ language: node_js
 node_js:
   - lts/*
 deploy:
+  provider: npm
+  email: 'mail@sannybuilder.com'
   on:
     branch: master
   api_key:
