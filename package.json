@@ -2,11 +2,11 @@
   "name": "utils",
   "version": "1.0.0",
   "description": "Sanny Builder Utilities",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack-dev-server --hot --inline --progress --port 8080 --mode development",
-    "test": "karma start"
+    "test": "karma start --single-run"
   },
   "keywords": [
     "typescript",
@@ -25,6 +25,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "dist/index.js"
+  ],
   "devDependencies": {
     "@types/jasmine": "2.8.7",
     "@types/lodash.intersection": "4.4.6",

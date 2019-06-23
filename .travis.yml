@@ -3,6 +3,6 @@ node_js:
   - lts/*
 deploy:
   on:
-    branch: production
+    branch: master
   api_key:
     secure: u6P0zxmNOyKq7b4Cx05Qprc8tzqQ4yU9paHNe5BZpGG+5YoIiSeB3H+lOmjMgnAbEGisla3mhPf3aJ/8HRkc0VufmkGkWWN+bWNmPLdsnQ3DJEUzxNgerAolrd9EhtQzR0jM+sKbZoUHziLf+zhcXBniwKZYNuW6wENwb+BR92v3UkdHfL9WetVNIxq2qB9i5yE1Cl7WnwnFPU80ih9NPhAoBPvrdcQyjPzDYD6/WdkD+wynH9Atw7vA0Aixaz30jtln4cGPGCN+zxfkdHf5K0/6xGXJWk7Kc590Yx9JYCaNn/XCfSwolQrkAJ7Pdxn0VKfaejoAoO/R8BIOk6lPApsYn9ZXeYp1cuwCMLNEuk8l8bAbI7wfrvx75OYJrwHocm5GCgCFUduOXZeojgLNinh6GI09cQ6wcXo9VRoDCyIOa655uYFTkrPo7JPwhiJAA9Xuf4HlXqxekczXs7lHAdM7EOoezNPCt+qKYX8o15mGOfkIOjuH1DlQZq1FqSoEdksF4kwp/cD2ChHXNC1tvlIJwKOljjxvEbiqI6qsxU+Bmy/Nvvdq4KmKMpfgQ9+QQff6ssBLv8FipURRIcnCxfww98Y+jMrOj2FP0xqHHY/B+9pb+dbDwGDypbHWBVGihIKgFnwSmWXrx4UtzNGBiZG1dwhivN0NrLJxklGgnYc=
