@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@sannybuilder/utils",
   "version": "1.0.0",
   "description": "Sanny Builder Utilities",
   "main": "dist/index.js",
